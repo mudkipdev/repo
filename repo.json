@@ -2,11 +2,11 @@
     "TikTok Link Anonymizer": {
         "description": "Creates a generic TikTok share link that won't reveal your username.",
         "version": "1.0.0",
-        "url": "https://www.icloud.com/shortcuts/5c4a8473e1b04fd7afc5174a0644d5f4"
+        "id": "5c4a8473e1b04fd7afc5174a0644d5f4"
     },
     "Water Eject Mini": {
     	"description": "Ejects water from your speakers.",
     	"version": "1.0.0",
-    	"url": "https://www.icloud.com/shortcuts/c56dd8b40a084f67966078b41691d4a9"
+    	"id": "c56dd8b40a084f67966078b41691d4a9"
     }
 }
