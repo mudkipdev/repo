@@ -2,11 +2,19 @@
     "TikTok Link Anonymizer": {
         "description": "Creates a generic TikTok share link that won't reveal your username.",
         "version": "1.0.0",
-        "id": "5c4a8473e1b04fd7afc5174a0644d5f4"
+        "id": "5c4a8473e1b04fd7afc5174a0644d5f4",
+        "icon": "icons/tiktok-link-anonymizer.png"
     },
     "Water Eject Mini": {
     	"description": "Ejects water from your speakers.",
     	"version": "1.0.0",
-    	"id": "c56dd8b40a084f67966078b41691d4a9"
+    	"id": "c56dd8b40a084f67966078b41691d4a9",
+    	"icon": "icons/water-eject-mini.png"
+    },
+    "Dabloon Tracker": {
+    	"description": "Keeps track of all of your TikTok Dabloons.",
+    	"version": "1.0.0",
+    	"id": "2ac194d68acb42e995a8307fb33f947e",
+    	"icon": "icons/dabloon-tracker.png"
     }
 }
